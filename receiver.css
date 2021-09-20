@@ -3,6 +3,9 @@
 }*/
 
 .logo {
-  background-image: url(background.png);
-  background-size: auto 100%;
+  background-image: url(background.png) no-repeatcenter center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+   background-size: cover;
 }
