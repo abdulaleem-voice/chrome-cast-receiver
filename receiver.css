@@ -1,9 +1,5 @@
-/*.background {
-  background: center no-repeat url(background.png);
-}*/
-
 .background {
-    background: center no-repeat #27272c;
+  background: center no-repeat url(background.png);
 }
 
 .logo {
