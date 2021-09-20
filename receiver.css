@@ -1,8 +1,11 @@
-.background {
+/*.background {
   background: center no-repeat url(background.png);
+}*/
+
+.background {
+    background: center no-repeat #27272c;
 }
 
-/*
 .logo {
   background-image: url(logo.png);
 }
@@ -18,4 +21,4 @@
 .watermark {
   background-image: url(watermark.png);
   background-size: 57px 57px;
-}*/
+}
